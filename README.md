@@ -1,3 +1,3 @@
-# ARABIC TO ROMAN AND VIVE VERSA CONVERTER
-### ROMAN TO ARABI (r2a() func) - RECURSION METHOD
-### ARABIC TO ROMAN (a2r() func) - ITERATION METHOD
+## Arabic to Roman and vive versa converter
+### ROMAN TO ARABIC (r2a() func) - recursion method
+### ARABIC TO ROMAN (a2r() func) - iteration method
